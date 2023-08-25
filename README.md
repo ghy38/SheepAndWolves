@@ -7,4 +7,4 @@ Link for download on Android:
 https://drive.google.com/file/d/1nl5jpzGIFyLSVY6R52Jk6cL50DdSrSFp/view?usp=drive_link
 ```
 # Main Screen
-![HomepageIMG](sheepIMG.png)
+![HomepageIMG](Sheep1.png)
